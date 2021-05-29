@@ -5,10 +5,10 @@ using UnityEngine;
 public class Apple : MonoBehaviour
 {
     private SpriteRenderer sr;
-
+    public int Score = 10;
     private CircleCollider2D circle;
-
     public GameObject collected;
+    
     void Start()
     {
         sr = GetComponent<SpriteRenderer>();
@@ -22,6 +22,8 @@ public class Apple : MonoBehaviour
             sr.enabled = false;
             circle.enabled = false;
             collected.SetActive(true);
+            GameController.instance.totalScore += Score;
+            GameController.instance.UpdateScoreText();
             Destroy(gameObject,0.3f);
         }
     }

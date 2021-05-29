@@ -133,6 +133,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: d8234af05aaca3c44aa7e014ca4c7f1c, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
+  Score: 10
   collected: {fileID: 1483459032292171323}
 --- !u!1001 &274840082100556534
 PrefabInstance:
