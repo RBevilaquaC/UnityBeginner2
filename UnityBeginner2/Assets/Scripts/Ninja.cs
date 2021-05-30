@@ -14,7 +14,7 @@ public class Ninja : MonoBehaviour
     public Transform headPoint;
     private bool colliding;
     public LayerMask Layer;
-    public BoxCollider2D boxCol;
+    public CircleCollider2D circleCol;
     
     void Start()
     {
@@ -45,7 +45,7 @@ public class Ninja : MonoBehaviour
                 collision.gameObject.GetComponent<Rigidbody2D>().AddForce(Vector2.up * 5);
                 speed = 0;
                 anim.SetTrigger("die");
-                boxCol.enabled = false;
+                circleCol.enabled = false;
                 Destroy(gameObject, 0.4f);
             }
         }

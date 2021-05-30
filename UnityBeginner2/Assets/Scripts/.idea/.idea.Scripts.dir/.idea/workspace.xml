@@ -24,6 +24,7 @@
     <setting file="file://$PROJECT_DIR$/Saw.cs" root0="SKIP_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/Apple.cs" root0="SKIP_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/Ninja.cs" root0="SKIP_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Box.cs" root0="SKIP_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/Player.cs" root0="SKIP_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/GameController.cs" root0="SKIP_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/FallingPlatform.cs" root0="SKIP_HIGHLIGHTING" />
@@ -32,11 +33,12 @@
     <changedPaths>
       <option value="$PROJECT_DIR$/Apple.cs" />
       <option value="$PROJECT_DIR$/FallingPlatform.cs" />
-      <option value="$PROJECT_DIR$/Player.cs" />
-      <option value="$PROJECT_DIR$/GameController.cs" />
       <option value="$PROJECT_DIR$/Checkpoint.cs" />
       <option value="$PROJECT_DIR$/Trampolin.cs" />
       <option value="$PROJECT_DIR$/Saw.cs" />
+      <option value="$PROJECT_DIR$/GameController.cs" />
+      <option value="$PROJECT_DIR$/Player.cs" />
+      <option value="$PROJECT_DIR$/Box.cs" />
       <option value="$PROJECT_DIR$/Ninja.cs" />
     </changedPaths>
   </component>
@@ -60,7 +62,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1622324052755</updated>
-      <workItem from="1622324055859" duration="17227000" />
+      <workItem from="1622324055859" duration="19498000" />
     </task>
     <servers />
   </component>
