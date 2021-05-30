@@ -22,12 +22,14 @@
     <setting file="file://$PROJECT_DIR$/Apple.cs" root0="SKIP_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/Player.cs" root0="SKIP_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/GameController.cs" root0="SKIP_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/FallingPlatform.cs" root0="SKIP_HIGHLIGHTING" />
   </component>
   <component name="IdeDocumentHistory">
     <changedPaths>
       <option value="$PROJECT_DIR$/Player.cs" />
       <option value="$PROJECT_DIR$/GameController.cs" />
       <option value="$PROJECT_DIR$/Apple.cs" />
+      <option value="$PROJECT_DIR$/FallingPlatform.cs" />
     </changedPaths>
   </component>
   <component name="ProjectId" id="1tEAmCIkd7sFT9gPFzECMAjHKIZ" />
@@ -50,7 +52,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1622324052755</updated>
-      <workItem from="1622324055859" duration="5946000" />
+      <workItem from="1622324055859" duration="9080000" />
     </task>
     <servers />
   </component>
