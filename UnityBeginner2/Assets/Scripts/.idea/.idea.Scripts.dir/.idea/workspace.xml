@@ -21,6 +21,7 @@
   <component name="HighlightingSettingsPerFile">
     <setting file="file://$PROJECT_DIR$/Checkpoint.cs" root0="SKIP_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/Trampolin.cs" root0="SKIP_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Saw.cs" root0="SKIP_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/Apple.cs" root0="SKIP_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/Player.cs" root0="SKIP_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/GameController.cs" root0="SKIP_HIGHLIGHTING" />
@@ -34,6 +35,7 @@
       <option value="$PROJECT_DIR$/GameController.cs" />
       <option value="$PROJECT_DIR$/Checkpoint.cs" />
       <option value="$PROJECT_DIR$/Trampolin.cs" />
+      <option value="$PROJECT_DIR$/Saw.cs" />
     </changedPaths>
   </component>
   <component name="ProjectId" id="1tEAmCIkd7sFT9gPFzECMAjHKIZ" />
@@ -56,7 +58,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1622324052755</updated>
-      <workItem from="1622324055859" duration="12780000" />
+      <workItem from="1622324055859" duration="13613000" />
     </task>
     <servers />
   </component>
